@@ -1,0 +1,12 @@
+model\Model.class
+model\Task.class
+repository\Repository.class
+repository\ProjectRepository.class
+model\Project.class
+repository\UserRepository.class
+repository\TaskRepository.class
+resolvers\Mutation.class
+resolvers\Query.class
+GraphQLEndpoint.class
+model\User.class
+resolvers\GraphQLResolverCustom.class
